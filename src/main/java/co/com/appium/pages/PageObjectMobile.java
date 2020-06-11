@@ -1,4 +1,4 @@
-package co.com.defex.pages;
+package co.com.appium.pages;
 
 import static net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getProxiedDriver;
 
