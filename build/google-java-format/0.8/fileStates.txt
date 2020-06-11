@@ -1,0 +1,10 @@
+src/main/java/co/com/defex/definitions/IncomeDefinition.java,1590432934000000000,668,FORMATTED
+src/main/java/co/com/defex/pages/HomePage.java,1590432934000000000,569,FORMATTED
+src/main/java/co/com/defex/pages/IncomePage.java,1591837670785366000,1225,FORMATTED
+src/main/java/co/com/defex/pages/PageObjectMobile.java,1590430708000000000,391,FORMATTED
+src/test/java/co/com/defex/AddIncomeRunner.java,1591836642074271000,424,FORMATTED
+src/test/java/co/com/defex/Calculadora.java,1591836642028310000,420,FORMATTED
+src/main/java/co/com/defex/steps/CalculadoraStep.java,1591838234977900000,412,FORMATTED
+src/main/java/co/com/defex/steps/AddIncomeStep.java,1590432934000000000,820,FORMATTED
+src/main/java/co/com/defex/pages/CalculadoraPage.java,1591838369370787000,567,FORMATTED
+src/main/java/co/com/defex/definitions/CalculadoraDefinition.java,1591838234868960000,543,FORMATTED

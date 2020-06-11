@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/gradle/libraries.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/dataset/grupoprestaciones/GrupoPrestacionesDataSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/dataset/grupoprestaciones/GrupoPrestacionesObjectBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/dataset/proveedores/ProveedorFactoryDataSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/definitions/GrupoPrestacionesDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/definitions/ProveedorDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/models/api/Link.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/models/grupoprestaciones/MaestroGrupoPrestaciones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/services/ClienteGenericoRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/steps/GrupoPrestacionesStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/main/java/com/co/testserviceohi/steps/ProveedorStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/test/java/com/co/testserviceohi/runners/GrupoPrestacionesRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/src/test/resources/features/ingresar_grupo_prestaciones.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ARL - Vida/projects/serenityrest/target/site/serenity/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/defex/definitions/CalculadoraDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/defex/pages/CalculadoraPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/defex/pages/IncomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/defex/steps/CalculadoraStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/defex/AddIncomeRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/defex/Calculadora.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/adicionar_ingresos.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/calculadora.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
